@@ -8,7 +8,7 @@ Le jeu comprend une introduction, une scène de jeu, une fin et des checkpoints.
 
 J’ai créé une présentation visuelle pour raconter l’histoire d’**Ombre** et vous donner un aperçu de son univers.
 
-[**Voir la présentation du jeu sur Figma →**](https://www.figma.com/proto/sj9LXBQB8dzsNBnVJ0dQeo/Ombre?page-id=0%3A1&node-id=6-5)
+[**Voir la présentation du jeu sur Figma →**](https://www.figma.com/proto/sj9LXBQB8dzsNBnVJ0dQeo/Ombre?page-id=0%3A1&node-id=6-5&scaling=scale-down-width&content-scaling=fixed)
 
 ## Scripts présentés
 
